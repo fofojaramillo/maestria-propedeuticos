@@ -1,5 +1,5 @@
 ## ¿Qué son las redes neuronales?
-
+Rodolfo Armando Jaramillo Ruiz - 31 de Mayo de 2023
 
 > A neural network is a massively parallel distributed processor made up of simple processing units, which has a natural propensity for storing experiential knowledge and making it available for use. It resembles the brain in two respects:
 >
@@ -70,5 +70,13 @@ Se describen los pasos en cada punto del diagrama.
 
 Una vez actualizados los pesos se vuelve al paso 2 de manera ciclica hasta que el error sea lo suficiente pequeño.
 
-## Problema
+## Problema: Obtener paletas de colores de una imagen.
+
+El problema consiste en tomar una imagen como *input* y que el *output* sea una paleta de colores de la imagen. Mi interes radica en trabajar con una red neuronal convolucional y pienso que sería un ejercicio sencillo para comenzar a trabajar en el procesamiento de imagenes y trabajar más a futuros con el procesamiento de imagenes con otros propositos.
+
+Se muestra un ejemplo de lo que se busca:
+
+![@CinemaPalete](cinema-pallete.png)
+
+El *frame* es de la pelicula Spencer (2021) y el trabajo de obtener la paleta de colores fue por *@CinemaPalettes* en *facebook*.
 
