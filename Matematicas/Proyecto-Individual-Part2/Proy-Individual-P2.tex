@@ -245,11 +245,15 @@ $$
 
 Detallando la expresión anterior, $n$ es la cantidad de ejemplos de entrenamientos. En este caso, imagenes. Mientras que $c$ es la cantidad de clasificaciones posibles, que son 128 siempre, por la forma en que se crearon los histogramas. Los valores $p_{ij}$ y $\hat{p}_{ij}$ son la probabilidad de que la imagen $i$ pertencezca a la clase $j$, solo que la primera es la probabilidad dada por la red, mientras que la segunda es la probabilidad dada por el vector de supervisión, que corresponde al vector de probabilidad obtenido en el histograma.
 
-A partir del modelo inicial de SS-CNN, se realiza un proceso de refinamiento conocido como \textit{finetuning}. Durante este proceso, la última capa se reentrena utilizando las mismas imágenes de entrenamiento utilizadas anteriormente. En el \textit{finetuning}, todas las capas del modelo se mantienen fijas, y solo la última capa completamente conectada se reentrena siguiendo las estructuras clásicas de los modelos CNN. Sin embargo, la salida de la última capa se modifica para adaptar el modelo a la clasificación de colores en 11 categorías distintas basadas en la clasificación propuesta por Berlin y Kay.
+A partir del modelo inicial de SS-CNN, se realiza un proceso de refinamiento conocido como \textit{finetuning}. Durante este proceso, la última capa se reentrena utilizando las mismas imágenes de entrenamiento utilizadas anteriormente. En el \textit{finetuning}, todas las capas del modelo se mantienen fijas, y solo la última capa completamente conectada se reentrena siguiendo las estructuras clásicas de los modelos CNN. La salida es modificada para tener una salida en forma de un vector de 10 colores en formato RGB.
 
 El nuevo modelo resultante se verá claramente afectado por las imágenes mal etiquetadas y estará lejos de ser preciso. Las imágenes utilizadas para el entrenamiento del modelo tienen etiquetas globales, pero en muchos casos, el color solo se encuentra en una pequeña región de la imagen o se corresponde con un objeto específico en presencia de otros colores en la imagen. Incluso hay casos en los que las etiquetas de las imágenes están completamente equivocadas, llegando al extremo de que una imagen etiquetada con un color no contenga ni un solo pixel de ese color.
 
 Por lo tanto, se aplica un proceso de selección de muestras en los pasos siguientes, con el fin de descartar las muestras etiquetadas erróneamente y obtener un conjunto de muestras "purificadas" que se utilizarán para reentrenar el modelo.
+
+Este a grande rasgos es el funcionamiento de la red neuronal que soluciona el problema de obtener una paleta de colores de una imagen.  Esta herramienta puede extenderse para permitir la personalización creativa, brindar asistencia en diseño gráfico, contribuir a la segmentación y etiquetado de imágenes, ser utilizada en terapias visuales y fomentar la generación de contenido artístico. La versatilidad de las redes neuronales convolucionales en el procesamiento de imágenes abre un amplio espectro de posibilidades en diferentes campos, ofreciendo soluciones innovadoras y beneficiosas en una variedad de escenarios.
+
+
 
 \newpage
 \section*{Bibliografía}
@@ -257,6 +261,9 @@ Por lo tanto, se aplica un proceso de selección de muestras en los pasos siguie
 \item O. Prades “\textit{Descripcion de los colores de una imagen mediante tecnicas de Deep learning}”, Escola D’enginyeria, Universotat Autómata de Barcelona, Barcelona, España, 2017
 
 \item Y. Wang, J. Liu, J. Wang, Y. Li, H. Lu, “\textit{Color names learning using convolutional neural networks}”, The National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China, 2015
+
+\item Bishop, C.M. (1995). \textit{Neural Networks for Pattern Recognition}. Oxford: Oxford University Press.
+
 \end{enumerate}
 
 
