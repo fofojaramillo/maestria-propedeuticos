@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.11)  5 JUN 2023 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.11)  7 JUN 2023 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./proyecto-part1.tex
-(proyecto-part1.tex
+**./Proy-Individual-P2.tex
+(Proy-Individual-P2.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
 (C:\Program Files\MiKTeX\tex/latex/base\report.cls
@@ -733,7 +733,7 @@ cfg))
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-(proyecto-part1.aux
+(Proy-Individual-P2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 
@@ -755,11 +755,8 @@ LaTeX Warning: Label `fig:neural-network' multiply defined.
 
 LaTeX Warning: Label `fig:neural-network' multiply defined.
 
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
 )
-\openout1 = `proyecto-part1.aux'.
+\openout1 = `Proy-Individual-P2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
@@ -839,75 +836,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--62
 
  []
 
-<../artificial-neural.png, id=4, 287.8755pt x 205.9695pt>
-File: ../artificial-neural.png Graphic file (type png)
-<use ../artificial-neural.png>
-Package pdftex.def Info: ../artificial-neural.png  used on input line 82.
-(pdftex.def)             Requested size: 230.3007pt x 164.7758pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 88
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 70
 .
 
 (C:\Users\Rodolfo Jaramillo\AppData\Roaming\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1{C:/Users/Rodolfo Jaramillo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.ma
-p}
+)
+<../MNIST.png, id=4, 294.09875pt x 296.10625pt>
+File: ../MNIST.png Graphic file (type png)
+<use ../MNIST.png>
+Package pdftex.def Info: ../MNIST.png  used on input line 74.
+(pdftex.def)             Requested size: 147.04901pt x 148.05275pt.
+[1{C:/Users/Rodolfo Jaramillo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <../artificial-neural.png>]
-<../artificial-neural-fixed-input.png, id=20, 308.352pt x 232.4685pt>
-File: ../artificial-neural-fixed-input.png Graphic file (type png)
-<use ../artificial-neural-fixed-input.png>
-Package pdftex.def Info: ../artificial-neural-fixed-input.png  used on input li
-ne 102.
-(pdftex.def)             Requested size: 246.68193pt x 185.97504pt.
-<../sigmoide.png, id=21, 451.6875pt x 339.2675pt>
-File: ../sigmoide.png Graphic file (type png)
-<use ../sigmoide.png>
-Package pdftex.def Info: ../sigmoide.png  used on input line 114.
-(pdftex.def)             Requested size: 180.67178pt x 135.70459pt.
- [2 <../artificial-neural-fixed-input.png> <../sigmoide.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+ <../MNIST.png>]
+<../convolucion.png, id=18, 466.74374pt x 221.628pt>
+File: ../convolucion.png Graphic file (type png)
+<use ../convolucion.png>
+Package pdftex.def Info: ../convolucion.png  used on input line 95.
+(pdftex.def)             Requested size: 326.71838pt x 155.13853pt.
+ [2 <../convolucion.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
-<../single-layer-NN.png, id=29, 166.221pt x 257.763pt>
-File: ../single-layer-NN.png Graphic file (type png)
-<use ../single-layer-NN.png>
-Package pdftex.def Info: ../single-layer-NN.png  used on input line 139.
-(pdftex.def)             Requested size: 99.73335pt x 154.659pt.
-<../multilayer-NN.png, id=30, 241.50224pt x 314.3745pt>
-File: ../multilayer-NN.png Graphic file (type png)
-<use ../multilayer-NN.png>
-Package pdftex.def Info: ../multilayer-NN.png  used on input line 149.
-(pdftex.def)             Requested size: 144.90245pt x 188.62614pt.
-[3 <../single-layer-NN.png> <../multilayer-NN.png>]
-<../recurrent-NN.png, id=36, 245.11575pt x 322.806pt>
-File: ../recurrent-NN.png Graphic file (type png)
-<use ../recurrent-NN.png>
-Package pdftex.def Info: ../recurrent-NN.png  used on input line 159.
-(pdftex.def)             Requested size: 147.07057pt x 193.68509pt.
-<../diagrama-NN.png, id=37, 455.301pt x 266.79675pt>
-File: ../diagrama-NN.png Graphic file (type png)
-<use ../diagrama-NN.png>
-Package pdftex.def Info: ../diagrama-NN.png  used on input line 174.
-(pdftex.def)             Requested size: 318.70853pt x 186.75644pt.
- [4 <../recurrent-NN.png> <../diagrama-NN.png>] [5]
-<../cinema-pallete.png, id=49, 331.83975pt x 302.3295pt>
-File: ../cinema-pallete.png Graphic file (type png)
-<use ../cinema-pallete.png>
-Package pdftex.def Info: ../cinema-pallete.png  used on input line 225.
-(pdftex.def)             Requested size: 165.91946pt x 151.16437pt.
- [6 <../cinema-pallete.png>] (proyecto-part1.aux
+<../maxpooling.png, id=25, 225.84375pt x 111.41624pt>
+File: ../maxpooling.png Graphic file (type png)
+<use ../maxpooling.png>
+Package pdftex.def Info: ../maxpooling.png  used on input line 142.
+(pdftex.def)             Requested size: 225.84319pt x 111.41597pt.
+<../paleta-colores.jpg, id=26, 963.6pt x 692.5875pt>
+File: ../paleta-colores.jpg Graphic file (type jpg)
+<use ../paleta-colores.jpg>
+Package pdftex.def Info: ../paleta-colores.jpg  used on input line 159.
+(pdftex.def)             Requested size: 385.43317pt x 277.03009pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <../maxpooling.png>] [4 <../paleta-colores.jpg>]
+<../clusters-kmeans.png, id=34, 187.29974pt x 94.55325pt>
+File: ../clusters-kmeans.png Graphic file (type png)
+<use ../clusters-kmeans.png>
+Package pdftex.def Info: ../clusters-kmeans.png  used on input line 185.
+(pdftex.def)             Requested size: 131.10892pt x 66.18681pt.
+<../relu.png, id=35, 313.17pt x 218.61674pt>
+File: ../relu.png Graphic file (type png)
+<use ../relu.png>
+Package pdftex.def Info: ../relu.png  used on input line 222.
+(pdftex.def)             Requested size: 187.90344pt x 131.17105pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <../clusters-kmeans.png>]
+<../esquema-capas.png, id=43, 784.1295pt x 398.6895pt>
+File: ../esquema-capas.png Graphic file (type png)
+<use ../esquema-capas.png>
+Package pdftex.def Info: ../esquema-capas.png  used on input line 235.
+(pdftex.def)             Requested size: 392.0638pt x 199.34425pt.
+ [6 <../relu.png> <../esquema-capas.png>] [7]
+[8] (Proy-Individual-P2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -916,28 +915,27 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 21528 strings out of 478659
- 446605 string characters out of 2855739
- 752614 words of memory out of 3000000
- 39222 multiletter control sequences out of 15000+600000
- 408454 words of font info for 47 fonts, out of 8000000 for 9000
+ 21524 strings out of 478659
+ 446303 string characters out of 2855739
+ 751622 words of memory out of 3000000
+ 39219 multiletter control sequences out of 15000+600000
+ 408533 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,89p,1145b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,12n,89p,1312b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
-Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on proyecto-part1.pdf (6 pages, 630075 bytes).
+eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mti12.pfb>
+Output written on Proy-Individual-P2.pdf (8 pages, 612330 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
