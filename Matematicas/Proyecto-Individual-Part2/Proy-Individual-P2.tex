@@ -61,7 +61,7 @@ Rodolfo Armando Jaramillo Ruiz\\
 05 de Mayo de 2023\\
 \section*{Redes Neuronales Convolucionales}
 
-Las redes neuronales se usan para resolver una gran variedad de problemas, uno de estos es procesar imágenes. Este, sin embargo, es un trabajo que si se pretende realizar usando, por ejemplo, una red neuronal multicapa solamente, haciendo que la entrada sea un vector que contenga los valores de los pixeles, se volvería un trabajo muy pesado a nivel de procesamiento, y los resultados serían muy deficientes. Es por eso que se aborda con otro método, usando otras operaciones que han probado mejorar el rendimiento de las redes para realizar tareas de procesamiento de imágenes.
+Las redes neuronales se usan para resolver una gran variedad de problemas, uno de estos es procesar imágenes. Este, sin embargo, es un trabajo que si se pretende realizar usando una red neuronal multicapa solamente, haciendo que la entrada sea un vector que contenga los valores de los pixeles, se volvería un trabajo muy pesado a nivel de procesamiento, y los resultados serían muy deficientes. Es por eso que se aborda con otro método, usando otras operaciones que han probado mejorar el rendimiento de las redes para realizar tareas de procesamiento de imágenes.
 
 \subsection*{Preámbulo}
 
@@ -86,7 +86,7 @@ Una red neuronal multicapa consta de una entrada y una salida, siendo la primera
 
 \subsection*{Operación de convolución}
 
-Las redes neuronales se llaman así porque incluyen un tipo de capa especial donde se realiza una operación llamada convolución. Esta operación consiste en pasar la imagen por un filtro y generar una nueva imagen que provee información sobre la imagen original. Estas imágenes pasar por un filtro se llaman mapas de características. Las redes neuronales convolucionales pueden tener varias capas convolucion donde se extraen varios mapas de caracteristicas, antes de que se llegue a la parte de capas \textit{full-conected}
+Las redes neuronales se llaman así porque incluyen un tipo de capa especial donde se realiza una operación llamada convolución. Esta operación consiste en pasar la imagen por un filtro y generar una nueva imagen que provee información sobre la imagen original. Estas imágenes pasar por un filtro se llaman mapas de características. Las redes neuronales convolucionales pueden tener varias capas convolución donde se extraen varios mapas de características, antes de que se llegue a la parte de capas \textit{full-conected}
 
 Este filtro, al que me referiré como kernel, es una matriz cuadrada con diferentes valores que definen el efecto que tiene el kernel sobre la imagen.
 
@@ -127,11 +127,11 @@ En síntesis, la convolución es una operación que toma una imagen y la lleva a
 \subsection*{Otras operaciones básicas}
 Hay un conjunto de operaciones asociadas a la convolución, aquí se muestran como un pequeño glosario:
 
-El \textit{padding} es el medio por el cual se obtiene un mapa de caracteristicas el mismo tamaño que la imagen original. Esto se logra alterando dicha imagen para que ahora este rodeada por pixeles de valor cero, de modo que la aplicación del kernel se pueda realizar centrando el kernel incluso en los pixeles de la los bordes de la imagen, obtiene un pixel del mapa de características por cada pixel que existe en la imagen original.
+El \textit{padding} es el medio por el cual se obtiene un mapa de características el mismo tamaño que la imagen original. Esto se logra alterando dicha imagen para que ahora este rodeada por pixeles de valor cero, de modo que la aplicación del kernel se pueda realizar centrando el kernel incluso en los pixeles de la los bordes de la imagen, obtiene un pixel del mapa de características por cada pixel que existe en la imagen original.
 
 El \textit{strides} hace referencia al desplazamiento que realiza el kernel a la hora de obtener el mapa. Este desplazamiento puede ser de una celda a la vez, que es lo tradicional, sin embargo puede ser mayor a uno. En combinación con el \textit{[padding} se pueden obtener más variedad de tamaño en los mapas de características, se obtiene una mayor libertad a la hora de obtener estos mapas.
 
-El \textit{pooling} analiza el contenido de la imagen por bloques de celdas, es como aplicar una convolución en sí misma, la operación es muy similar. Esta operación permite reducir el número de datos mientras que la información se preserva. Lo que se hace es tomar una región minúscula de la misma forma que se hace al aplicar un fltro, y se ejecuta una operación entre las celdas para asignárselo a otro mapa de características, pero no ejecuta la convolución, si no alguna de las operaciones siguientes. Voy a nombrar dos tipos de pooling:\\
+El \textit{pooling} analiza el contenido de la imagen por bloques de celdas, es como aplicar una convolución en sí misma, la operación es muy similar. Esta operación permite reducir el número de datos mientras que la información se preserva. Lo que se hace es tomar una región minúscula de la misma forma que se hace al aplicar un fltro, y se ejecuta una operación entre las celdas para asignárselo a otro mapa de características, pero no ejecuta la convolución, si no alguna de las operaciones siguientes. Voy a nombrar dos tipos de \textit{pooling}:\\
 \begin{itemize}
 \item \textit{Maxpooling}: se toma la región, se comparan los valores de las celdas para tomar el más grande.
 \item \textit{Averagepooling}: se toma la región, y se devuelve el valor el promedio del valor de las celdas.
@@ -144,9 +144,9 @@ El \textit{pooling} analiza el contenido de la imagen por bloques de celdas, es 
   \label{fig:neural-network}
 \end{figure}
 
-El \textit{stacking} es el apilar el resultado de aplicarle a una imagen varios filtros para extraer la mayor cantidad de caracteristicas de una misma imagen. 
+El \textit{stacking} es el apilar el resultado de aplicarle a una imagen varios filtros para extraer la mayor cantidad de características de una misma imagen. 
 
-Por ejemplo, si a una imagen pequeña de $10 \times 10$ se le aplican 10 filtros de de $3 \times 3$. Considerando un \textit{padding} de 0, un \textit{stride} de 1, se obtiene una salida de volumen $8 \times 8 \times 10$, es decir, 10 mapas de caracteristicas de 64 pixeles cada uno.
+Por ejemplo, si a una imagen pequeña de $10 \times 10$ se le aplican 10 filtros de de $3 \times 3$. Considerando un \textit{padding} de 0, un \textit{stride} de 1, se obtiene una salida de volumen $8 \times 8 \times 10$, es decir, 10 mapas de características de 64 pixeles cada uno.
 
 Estos conceptos serán de ayuda para resolver el problema planteado en la primera parte del proyecto.
 
@@ -161,7 +161,7 @@ El obtener paletas de colores es una tarea usual dentro del área del diseño y 
   \label{fig:neural-network}
 \end{figure}
 
-Este es un trabajo hecho completamente autor según el mismo autor. La idea es replicar estos resultados usando una red neuronal comvolucional.
+Este es un trabajo hecho completamente autor según el mismo autor. La idea es replicar estos resultados usando una red neuronal convolucional.
 
 \subsection*{Elección de metodología}
 
@@ -178,7 +178,7 @@ La arquitectura de la red consta de dos fases, cada una con un modelo diferente 
 \subsection*{Implementación en papel}
 
 \subsubsection*{Generación de histogramas}
-La primera fase del modelo es un SS-CNN. La función de los histogramas es que supervisen el entrenamiento de la red, ya que para cada imagen de entrenamiento describen la distribución de probabilidad de diferentes colores en cada una de las imagenes. Como la distribución de los colores en el espacio RGB es desigual no se puede hacer un histograma de la manera habitual. Para resolver este problema, se usará el algoritmo \textit{k-means} con el fin de clasificar el todos  los pixeles de una imagen en 128 \textit{clusters} representados en el espacio RGB.
+La primera fase del modelo es un SS-CNN. La función de los histogramas es que supervisen el entrenamiento de la red, ya que para cada imagen de entrenamiento describen la distribución de probabilidad de diferentes colores en cada una de las imágenes. Como la distribución de los colores en el espacio RGB es desigual no se puede hacer un histograma de la manera habitual. Para resolver este problema, se usará el algoritmo \textit{k-means} con el fin de clasificar el todos  los pixeles de una imagen en 128 \textit{clusters} representados en el espacio RGB.
 
 \begin{figure}[h]
   \centering
@@ -187,7 +187,7 @@ La primera fase del modelo es un SS-CNN. La función de los histogramas es que s
   \label{fig:neural-network}
 \end{figure}
 
-El algoritmo de \textit{k-means} funciona tomando las $n$ observaciones, que para este caso serian los \textit{inputs} de la imagen, y asignandolos en los $k$ centroides iniciales $m_1, m_2, ... m_k$ en función de su distancia a este. Este algoritmo itera en dos pasos.
+El algoritmo de \textit{k-means} funciona tomando las $n$ observaciones, que para este caso serian los \textit{inputs} de la imagen, y asignándolos en los $k$ centroides iniciales $m_1, m_2, ... m_k$ en función de su distancia a este. Este algoritmo itera en dos pasos.
 \begin{enumerate}
 \item Asignación: usando notación de conjuntos, para un grupo $S^{(t)}_{i}$ (donde $t$ indica a que iteración corresponde este centroide) le corresponden los siguientes elementos según la ecuación.
 
@@ -243,7 +243,7 @@ $$
 \varepsilon = -\frac{1}{n}\sum^{n}_{i=1}\sum^{c}_{j=1}\hat{p}_{ij}log(p_{ij})
 $$
 
-Detallando la expresión anterior, $n$ es la cantidad de ejemplos de entrenamientos. En este caso, imagenes. Mientras que $c$ es la cantidad de clasificaciones posibles, que son 128 siempre, por la forma en que se crearon los histogramas. Los valores $p_{ij}$ y $\hat{p}_{ij}$ son la probabilidad de que la imagen $i$ pertencezca a la clase $j$, solo que la primera es la probabilidad dada por la red, mientras que la segunda es la probabilidad dada por el vector de supervisión, que corresponde al vector de probabilidad obtenido en el histograma.
+Detallando la expresión anterior, $n$ es la cantidad de ejemplos de entrenamientos. En este caso, imágenes. Mientras que $c$ es la cantidad de clasificaciones posibles, que son 128 siempre, por la forma en que se crearon los histogramas. Los valores $p_{ij}$ y $\hat{p}_{ij}$ son la probabilidad de que la imagen $i$ pertencezca a la clase $j$, solo que la primera es la probabilidad dada por la red, mientras que la segunda es la probabilidad dada por el vector de supervisión, que corresponde al vector de probabilidad obtenido en el histograma.
 
 A partir del modelo inicial de SS-CNN, se realiza un proceso de refinamiento conocido como \textit{finetuning}. Durante este proceso, la última capa se reentrena utilizando las mismas imágenes de entrenamiento utilizadas anteriormente. En el \textit{finetuning}, todas las capas del modelo se mantienen fijas, y solo la última capa completamente conectada se reentrena siguiendo las estructuras clásicas de los modelos CNN. La salida es modificada para tener una salida en forma de un vector de 10 colores en formato RGB.
 

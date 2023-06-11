@@ -1,0 +1,591 @@
+cve_ent,cve_mun,cve_loc,nom_loc
+26,0,0,Sonora
+26,1,0,Aconchi
+26,1,1,Aconchi
+26,1,3,La Estancia
+26,1,7,San Pablo (San Pablo de Aconchi)
+26,2,0,Agua Prieta
+26,2,1,Agua Prieta
+26,2,13,Colonia Morelos
+26,2,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,2,9999,Localidad no especificada
+26,3,0,Álamos
+26,3,1,Álamos
+26,3,2,La Aduana
+26,3,25,Bacamaya
+26,3,33,Basiroa
+26,3,37,Bavícora
+26,3,49,Los Camotes (San José del Palmar)
+26,3,105,La Gacela
+26,3,110,Guajaray
+26,3,150,Mexiquillo
+26,3,156,Minas Nuevas
+26,3,159,El Mocúzari (Conicárit)
+26,3,162,Los Muertos
+26,3,174,Osobampo
+26,3,224,San Bernardo
+26,3,255,Los Tanques
+26,3,256,Tapizuelas
+26,3,259,Techobampo
+26,3,283,El Zapote
+26,3,325,La Uvalama
+26,3,389,La Providencia
+26,3,468,Mochibampo
+26,3,525,Mesa Colorada
+26,3,799,La Labor de Santa Lucía (El Mezquital)
+26,3,938,El Guamúchil
+26,3,988,Nuevo Piedras Verdes
+26,3,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,3,9999,Localidad no especificada
+26,4,0,Altar
+26,4,1,Altar
+26,4,454,Las Amapolas
+26,4,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,4,9999,Localidad no especificada
+26,5,0,Arivechi
+26,5,1,Arivechi
+26,5,6,Tarachi
+26,6,0,Arizpe
+26,6,1,Arizpe
+26,6,29,Chinapa
+26,6,84,Sinoquipe
+26,6,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,7,0,Atil
+26,7,1,Atil
+26,7,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,8,0,Bacadéhuachi
+26,8,1,Bacadéhuachi
+26,8,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,9,0,Bacanora
+26,9,1,Bacanora
+26,9,7,El Destacamento
+26,9,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,10,0,Bacerac
+26,10,1,Bacerac
+26,11,0,Bacoachi
+26,11,1,Bacoachi
+26,11,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,12,0,Bácum
+26,12,1,Bácum
+26,12,3,Atotonilco
+26,12,7,Bataconcica (Museo Chopocuni)
+26,12,82,Francisco Javier Mina (Campo 60)
+26,12,83,Independencia (Campo 104)
+26,12,86,Loma de Bácum
+26,12,88,Miguel Alemán (La Noria)
+26,12,90,Primero de Mayo (Campo 77)
+26,12,93,San José de Bácum
+26,12,100,Villa Guadalupe
+26,12,159,La Bomba (Juan Maldonado Tetabiate)
+26,12,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,13,0,Banámichi
+26,13,1,Banámichi
+26,13,11,Las Delicias
+26,13,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,14,0,Baviácora
+26,14,1,Baviácora
+26,14,11,Mazocahui
+26,14,15,San José (San José de Baviácora)
+26,14,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,15,0,Bavispe
+26,15,1,Bavispe
+26,15,29,San Miguelito
+26,15,51,La Mora
+26,16,0,Benjamín Hill
+26,16,1,Benjamín Hill
+26,16,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,16,9999,Localidad no especificada
+26,17,0,Caborca
+26,17,1,Heroica Caborca
+26,17,9,Álvaro Obregón
+26,17,62,El Coyote
+26,17,72,La Alameda (Cortázar)
+26,17,80,Desemboque
+26,17,83,El Diamante (La Retranca)
+26,17,111,Jesús García
+26,17,187,San Isidro
+26,17,246,Plutarco Elías Calles (La Y Griega)
+26,17,251,#NAME?
+26,17,309,Josefa Ortiz de Domínguez
+26,17,320,La Primavera
+26,17,373,Santa Eduwiges (La Cachora)
+26,17,397,15 de Septiembre
+26,17,398,Adolfo Orive de Alba
+26,17,411,Ures
+26,17,555,José María Morelos
+26,17,558,La Mochomera (La Morena)
+26,17,612,Siempre Viva
+26,17,618,Yaqui Justiciero
+26,17,643,Cerro Blanco
+26,17,783,La Almita
+26,17,793,Salomón Quihuis
+26,17,898,Poblado San Felipe
+26,17,972,Ejido Cajeme Dos
+26,17,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,17,9999,Localidad no especificada
+26,18,0,Cajeme
+26,18,1,Ciudad Obregón
+26,18,72,Altos de Jecopaco
+26,18,74,Allende (El Dieciocho)
+26,18,76,Antonio Rosales
+26,18,84,Benito Juárez
+26,18,90,Buenavista
+26,18,93,Cuauhtémoc (Campo Cinco)
+26,18,284,Cócorit
+26,18,289,Estación Corral
+26,18,296,Cumuripa
+26,18,311,Esperanza
+26,18,314,Francisco I. Madero (Campo 30)
+26,18,315,Francisco Villa
+26,18,319,Los Hornos
+26,18,329,Loma de Guamúchil
+26,18,334,Marte R. Gómez (Tobarito)
+26,18,339,Mora Villalobos (Campo 29)
+26,18,340,Morelos Uno
+26,18,341,Morelos Dos
+26,18,342,Campo Veintiocho
+26,18,356,Vicente Guerrero (El Portón)
+26,18,362,Progreso (Campo 47)
+26,18,364,Providencia
+26,18,365,Quetchehueca
+26,18,386,Sonora Progresista
+26,18,387,Tajimaroa
+26,18,391,Ejido Tepeyac (Campo Dos)
+26,18,394,La Tinajera
+26,18,397,31 de Octubre
+26,18,403,Pueblo Yaqui
+26,18,404,Yucuribampo
+26,18,535,Puente de Picos
+26,18,1039,Tesopobampo
+26,18,1441,Club Aéreo del Yaqui
+26,18,1653,Cocoraque
+26,18,3224,Citrícola del Yaqui
+26,18,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,18,9999,Localidad no especificada
+26,19,0,Cananea
+26,19,1,Heroica Ciudad de Cananea
+26,19,20,Cuitaca
+26,19,26,Emiliano Zapata
+26,19,68,Vicente Guerrero
+26,19,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,19,9999,Localidad no especificada
+26,20,0,Carbó
+26,20,1,Carbó
+26,20,81,La Guacamaya
+26,20,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,21,0,La Colorada
+26,21,1,La Colorada
+26,21,61,Tecoripa
+26,21,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,21,9999,Localidad no especificada
+26,22,0,Cucurpe
+26,22,1,Cucurpe
+26,22,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,22,9999,Localidad no especificada
+26,23,0,Cumpas
+26,23,1,Cumpas
+26,23,12,Los Hoyos
+26,23,17,Jécori
+26,23,25,Ojo de Agua
+26,23,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,24,0,Divisaderos
+26,24,1,Divisaderos
+26,25,0,Empalme
+26,25,1,Empalme
+26,25,6,Antonio Rosales
+26,25,13,Cruz de Piedra
+26,25,31,Maytorena
+26,25,33,Mi Patria es Primero
+26,25,34,José María Morelos y Pavón (La Atravezada)
+26,25,37,La Palma
+26,25,60,Santa María de Guaymas
+26,25,69,#NAME?
+26,25,136,Juan Rodríguez
+26,25,140,San Fernando de Guaymas
+26,25,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,25,9999,Localidad no especificada
+26,26,0,Etchojoa
+26,26,1,Etchojoa
+26,26,5,Aquichopo
+26,26,7,Bacajaquía
+26,26,8,Bacame Nuevo
+26,26,9,Bacame Viejo
+26,26,11,Bacobampo
+26,26,12,Basconcobe
+26,26,15,Guaytana
+26,26,19,Buaysiacobe
+26,26,26,El Centenario
+26,26,30,Campo Número 13
+26,26,35,Chucarit
+26,26,40,Guayparín
+26,26,42,Huiroachaca
+26,26,43,El Huitchaca
+26,26,45,Jitonhueca
+26,26,48,Lázaro Cárdenas (Mayojusálit)
+26,26,54,Mocorúa
+26,26,57,Navolato
+26,26,61,Las Playitas
+26,26,65,El Rodeo
+26,26,67,Sahuaral
+26,26,69,San Pedro Nuevo
+26,26,72,Talamante (Colonia Talamante)
+26,26,155,El Chori (El Choya)
+26,26,182,Macochín
+26,26,183,El Chapote
+26,26,186,San Pedro Viejo
+26,26,196,El Juchica
+26,26,228,Mayocahui
+26,26,251,Bayajorit
+26,26,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,26,9999,Localidad no especificada
+26,27,0,Fronteras
+26,27,1,Fronteras
+26,27,45,Esqueda
+26,27,55,Kilómetro Cuarenta y Siete
+26,27,96,Turicachi
+26,27,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,28,0,Granados
+26,28,1,Granados
+26,28,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,28,9999,Localidad no especificada
+26,29,0,Guaymas
+26,29,1,Heroica Guaymas
+26,29,25,San Carlos (San Carlos Nuevo Guaymas)
+26,29,61,Casas Blancas
+26,29,62,El Castillo
+26,29,71,Compuertas
+26,29,73,Coracepe
+26,29,100,General Felipe Ángeles
+26,29,101,Francisco Márquez
+26,29,108,Guadalupe
+26,29,109,Guadalupe Victoria
+26,29,111,Guásimas (De Belem)
+26,29,120,Huiribis
+26,29,142,General Lázaro Cárdenas
+26,29,143,Lencho
+26,29,152,General Mariano Escobedo
+26,29,161,La Misa
+26,29,172,Estación Oroz (Oroz)
+26,29,173,Ortíz
+26,29,195,Pitahaya (Belem)
+26,29,202,Pótam
+26,29,211,Rahum
+26,29,254,San José de Guaymas
+26,29,271,Santa Clara
+26,29,307,Tórim
+26,29,314,Triunfo Santa Rosa
+26,29,325,Vícam (Switch)
+26,29,326,Vícam Pueblo
+26,29,338,Profesor Graciano Sánchez
+26,29,380,General Álvaro Obregón
+26,29,415,Cárdenas
+26,29,416,Babojori
+26,29,522,Guasimitas
+26,29,678,Baugo (Guásimas)
+26,29,1430,Casa Azul
+26,29,1651,Oros
+26,29,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,29,9999,Localidad no especificada
+26,30,0,Hermosillo
+26,30,1,Hermosillo
+26,30,136,Punta Chueca
+26,30,137,Bahía de Kino
+26,30,339,Mesa del Seri
+26,30,343,Miguel Alemán (La Doce)
+26,30,403,Plan de Ayala
+26,30,454,Los Arroyos
+26,30,535,San Pedro o el Saucito (San Pedro el Saucito)
+26,30,630,El Tazajal
+26,30,653,El Triunfo
+26,30,669,La Victoria
+26,30,677,El Zacatón
+26,30,681,Zamora
+26,30,702,Pilares
+26,30,756,Molino de Camou (San Isidro)
+26,30,1008,Alejandro Carrillo Marcor
+26,30,1214,El Choyudo (Los Japoneses)
+26,30,1406,El Alamito Buenavista (El Tronconal)
+26,30,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,30,9999,Localidad no especificada
+26,31,0,Huachinera
+26,31,1,Huachinera
+26,31,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,31,9999,Localidad no especificada
+26,32,0,Huásabas
+26,32,1,Huásabas
+26,33,0,Huatabampo
+26,33,1,Huatabampo
+26,33,2,Agiabampo Uno
+26,33,11,Bachantahui
+26,33,12,Bachoco
+26,33,17,Las Bocas
+26,33,19,Los Buitbores
+26,33,20,Camahuiroa
+26,33,21,Campo Diecinueve
+26,33,24,El Caro
+26,33,27,Citaváro
+26,33,33,Estación Don
+26,33,37,La Esquina
+26,33,38,Etchoropo
+26,33,40,Francisco Sarabia
+26,33,48,Juan de la Barrera
+26,33,52,Júpare
+26,33,54,Loma de Etchoropo
+26,33,62,Melchor Ocampo
+26,33,67,Moroncárit
+26,33,76,Pozo Dulce
+26,33,78,Pueblo Viejo
+26,33,83,Sahuaral de Otero (Sahuaral de Abajo)
+26,33,85,Sirebampo
+26,33,88,El Tábare
+26,33,89,Torocoba
+26,33,95,24 de Febrero
+26,33,96,Venustiano Carranza
+26,33,99,Yavaros (Isla las Viejas)
+26,33,100,La Sábila
+26,33,103,Totoliboqui
+26,33,110,Álvaro Obregón
+26,33,123,Insurgentes de Pueblo Yaqui
+26,33,128,El Alto San Cristóbal
+26,33,197,17 de Octubre
+26,33,215,Torocobampo
+26,33,235,San Antonio
+26,33,378,Agiabampo Dos
+26,33,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,33,9999,Localidad no especificada
+26,34,0,Huépac
+26,34,1,Huépac
+26,35,0,Imuris
+26,35,1,Imuris
+26,35,31,Los Janos
+26,35,50,Terrenate
+26,35,84,Estación Cumeral
+26,35,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,35,9999,Localidad no especificada
+26,36,0,Magdalena
+26,36,1,Magdalena de Kino
+26,36,75,La Cebolla
+26,36,98,El Tasícuri
+26,36,220,San Ignacio
+26,36,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,36,9999,Localidad no especificada
+26,37,0,Mazatán
+26,37,1,Mazatán
+26,37,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,38,0,Moctezuma
+26,38,1,Moctezuma
+26,38,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,39,0,Naco
+26,39,1,Naco
+26,39,8,Cuauhtémoc
+26,39,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,40,0,Nácori Chico
+26,40,1,Nácori Chico
+26,40,17,La Mesa Tres Ríos
+26,40,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,41,0,Nacozari de García
+26,41,1,Nacozari de García
+26,41,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,41,9999,Localidad no especificada
+26,42,0,Navojoa
+26,42,1,Navojoa
+26,42,16,Buenavista
+26,42,21,Rancho Camargo
+26,42,22,Camoa
+26,42,34,Cuchilla de Bahuises
+26,42,40,Chibucú
+26,42,46,Etchohuaquila
+26,42,48,Fundición
+26,42,52,Guadalupe de Juárez
+26,42,55,Guaymitas
+26,42,66,Joaquín Amaro
+26,42,69,Jostahueca
+26,42,76,Loma del Refugio
+26,42,79,Masiaca
+26,42,85,Musuabampo
+26,42,86,Nachuquis (San Antonio Nachuquis)
+26,42,98,Rancho del Padre
+26,42,99,El Recodo
+26,42,101,Rosales
+26,42,117,Sibacobe
+26,42,118,El Siviral
+26,42,124,Tesia
+26,42,135,Sapochopo
+26,42,136,Sapomora
+26,42,146,Bacabachi
+26,42,164,Chirajobampo
+26,42,177,Francisco I. Madero Dos
+26,42,209,Agiabampo
+26,42,246,El Dátil
+26,42,296,El Saneal
+26,42,300,Los Buayums
+26,42,316,Sinahuisa
+26,42,380,Santa María del Buaraje
+26,42,531,Pueblo Mayo
+26,42,586,Cohuirimpo
+26,42,822,5 de Junio
+26,42,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,42,9999,Localidad no especificada
+26,43,0,Nogales
+26,43,1,Heroica Nogales
+26,43,21,Cíbuta
+26,43,281,Francisco Miguel Cárdenas Valdez (Mascareñas)
+26,43,380,Los Nogales (Los Jabalíes)
+26,43,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,43,9999,Localidad no especificada
+26,44,0,Ënavas
+26,44,1,Ënavas
+26,44,9999,Localidad no especificada
+26,45,0,Opodepe
+26,45,1,Opodepe
+26,45,68,Querobabi
+26,45,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,46,0,Oquitoa
+26,46,1,Oquitoa
+26,46,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,46,9999,Localidad no especificada
+26,47,0,Pitiquito
+26,47,1,Pitiquito
+26,47,27,Desemboque de los Seris (El Desemboque)
+26,47,35,Félix Gómez (El Dipo)
+26,47,65,Puerto Libertad
+26,47,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,48,0,Puerto Peñasco
+26,48,1,Puerto Peñasco
+26,48,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,48,9999,Localidad no especificada
+26,49,0,Quiriego
+26,49,1,Quiriego
+26,49,11,Bacusa
+26,49,15,Batacosa
+26,49,22,Cábora
+26,49,42,Goijaquía
+26,49,60,El Mojarit
+26,49,352,Los Bajíos (Ejido los Conejos)
+26,49,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,50,0,Rayón
+26,50,1,Rayón
+26,51,0,Rosario
+26,51,1,Rosario
+26,51,17,Cuba
+26,51,47,Nuri
+26,51,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,51,9999,Localidad no especificada
+26,52,0,Sahuaripa
+26,52,1,Sahuaripa
+26,52,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,53,0,San Felipe de Jesús
+26,53,1,San Felipe de Jesús
+26,54,0,San Javier
+26,54,1,San Javier
+26,54,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,55,0,San Luis Río Colorado
+26,55,1,San Luis Río Colorado
+26,55,3,La Bolsa
+26,55,8,Emiliano Zapata
+26,55,11,Golfo de Santa Clara
+26,55,12,La Grullita
+26,55,14,Islita
+26,55,16,Lagunitas
+26,55,17,Ingeniero Luis B. Sánchez
+26,55,21,Monumentos
+26,55,23,Nuevo Michoacán (Estación Riíto)
+26,55,39,El Fronterizo
+26,55,65,Mesa Rica
+26,55,89,Independencia
+26,55,103,Mesa Rica Dos
+26,55,364,El Barrote
+26,55,756,San Marcos
+26,55,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,55,9999,Localidad no especificada
+26,56,0,San Miguel de Horcasitas
+26,56,1,San Miguel de Horcasitas
+26,56,3,Los Ángeles (La Fábrica de los Ángeles)
+26,56,27,Pesqueira
+26,56,32,Pueblo Nuevo
+26,56,88,Pesqueira [Granja Porcícola]
+26,56,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,56,9999,Localidad no especificada
+26,57,0,San Pedro de la Cueva
+26,57,1,San Pedro de la Cueva
+26,57,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,58,0,Santa Ana
+26,58,1,Santa Ana
+26,58,20,Estación Llano
+26,58,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,58,9999,Localidad no especificada
+26,59,0,Santa Cruz
+26,59,1,Santa Cruz
+26,59,30,Miguel Hidalgo (San Lázaro)
+26,59,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,59,9999,Localidad no especificada
+26,60,0,Sáric
+26,60,1,Sáric
+26,60,44,Sásabe
+26,60,60,Cerro Prieto
+26,60,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,61,0,Soyopa
+26,61,1,Soyopa
+26,61,7,Rebeico
+26,61,11,Tónichi
+26,61,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,62,0,Suaqui Grande
+26,62,1,Suaqui Grande
+26,62,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,63,0,Tepache
+26,63,1,Tepache
+26,63,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,64,0,Trincheras
+26,64,1,Trincheras
+26,64,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,65,0,Tubutama
+26,65,1,Tubutama
+26,65,31,San José (San Enrique)
+26,65,32,La Sangre (La Sangre Nueva)
+26,65,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,66,0,Ures
+26,66,1,Heroica Ciudad de Ures
+26,66,5,Pueblo de Álamos
+26,66,30,Guadalupe (Guadalupe de Ures)
+26,66,76,San Pedro de Ures (San Pedro)
+26,66,77,San Rafael
+26,66,82,El Sauz (Sauz de Ures)
+26,66,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,66,9999,Localidad no especificada
+26,67,0,Villa Hidalgo
+26,67,1,Villa Hidalgo
+26,67,5,San Juan del Río
+26,67,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,67,9999,Localidad no especificada
+26,68,0,Villa Pesqueira
+26,68,1,Villa Pesqueira (Mátape)
+26,68,50,Nacori Grande
+26,69,0,Yécora
+26,69,1,Yécora
+26,69,25,Maycoba
+26,69,34,El Kipur
+26,69,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,70,0,General Plutarco Elías Calles
+26,70,1,Sonoyta
+26,70,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,70,9999,Localidad no especificada
+26,71,0,Benito Juárez
+26,71,1,Villa Juárez
+26,71,3,Agua Blanca
+26,71,9,Batevito (Colonia Irrigación)
+26,71,104,Jecopaco
+26,71,139,Paredón Colorado (Paredón Viejo)
+26,71,140,Aceitunitas (Sube y Baja)
+26,71,141,Paredoncito
+26,72,0,San Ignacio Río Muerto
+26,72,1,San Ignacio Río Muerto
+26,72,17,Bahía de Lobos
+26,72,156,Bachomobampo
+26,72,163,La Democracia
+26,72,194,San Isidro (El Polvorón)
+26,72,212,Singapur
+26,72,214,Tetabiate
+26,72,243,El Nuevo Castillo
+26,72,7777,Cifra confidencial. Establecido en la Ley del SNIEG.
+26,999,0,Municipio no especificado
+26,999,9999,Localidad no especificada
