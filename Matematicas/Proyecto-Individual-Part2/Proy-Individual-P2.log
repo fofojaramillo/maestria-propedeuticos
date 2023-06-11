@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.11)  8 JUN 2023 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.11)  11 JUN 2023 03:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -733,29 +733,7 @@ cfg))
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-(Proy-Individual-P2.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-
-LaTeX Warning: Label `fig:neural-network' multiply defined.
-
-)
+No file Proy-Individual-P2.aux.
 \openout1 = `Proy-Individual-P2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -774,7 +752,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
 LaTeX Info: Redefining \. on input line 44.
 LaTeX Info: Redefining \% on input line 44.
- (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count317
 \scratchdimen=\dimen300
@@ -911,13 +889,13 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 21524 strings out of 478659
- 446303 string characters out of 2855739
- 751622 words of memory out of 3000000
+ 21522 strings out of 478659
+ 446160 string characters out of 2855739
+ 751583 words of memory out of 3000000
  39219 multiletter control sequences out of 15000+600000
  408533 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
